@@ -1,0 +1,23 @@
+* {
+    padding: 8px;
+    color: purple;
+    background-color: cyan;
+}
+p {
+    background-color: darkblue;
+    color: wheat;
+}
+
+.description {
+    color: white;
+}
+.list{
+    margin: 10px;
+   border-style: dotted;
+   border-color: red;
+   border-width: 2px;
+   padding: 8px;
+}
+.list .list{
+    border-color: purple;
+}
